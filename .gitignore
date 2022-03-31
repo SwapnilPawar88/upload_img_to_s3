@@ -1,0 +1,3 @@
+# dependencies
+/backend_s3_upload/node_modules
+/s3fileupload/node_modules
